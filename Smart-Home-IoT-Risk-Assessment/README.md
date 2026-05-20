@@ -6,6 +6,11 @@ A comprehensive risk assessment of a typical smart home IoT environment, focusin
 **Status:** Completed  
 **Focus Area:** IoT Security, Risk Assessment, Security Controls
 
+## 📄 Deliverables
+- **[Download Full Risk Assessment Report (PDF)](Smart-Home-Risk-Assessment-Report.pdf)** ← Click to view
+- Risk Register & Threat Analysis
+- Recommended Security Controls
+
 ## Objectives
 - Identify key security risks in a smart home IoT ecosystem
 - Assess risks using a structured risk assessment methodology
