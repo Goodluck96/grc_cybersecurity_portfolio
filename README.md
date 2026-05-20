@@ -9,7 +9,7 @@ I specialise in:
 - ISO 27001
 - Cyber Security Governance
 
-This portfolio showcases my practical cyber security and GRC projects developed during my research and independent learning.
+This portfolio showcases my practical cyber security and GRC projects developed during my independent research and hands-on learning.
 
 ---
 
