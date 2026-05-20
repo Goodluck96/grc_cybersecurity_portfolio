@@ -16,7 +16,14 @@ This portfolio showcases my practical cyber security and GRC projects developed 
 ## Portfolio Projects
 
 ### Smart Home IoT Risk Assessment
-Assessment of network and IoT security risks within a smart home environment.
+**Featured Project**
+
+Assessment of security and privacy risks in a typical smart home IoT environment, including cameras, smart locks, voice assistants, and network segmentation.
+
+- **Type:** Risk Assessment + GRC  
+- **Standards:** NIST, ISO 27001, GDPR  
+- **[View Project Folder](Smart-Home-IoT-Risk-Assessment)**  
+- **[Download Full Report (PDF)](Smart-Home-IoT-Risk-Assessment/Smart-Home-Risk-Assessment-Report.pdf)**.
 
 ### Security Policies
 - Password Policy
